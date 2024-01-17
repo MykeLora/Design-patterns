@@ -14,4 +14,8 @@
     <None Remove="PatronesCreacionales\AbstractFactory\ex01_CreandoFamiliasObject\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="PatronesCreacionales\AbstractFactory\ex02_SistemaFabricaVehiculo\Main.cs" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,6 @@
+﻿Crea un sistema de creación de vehículos utilizando el patrón Abstract Factory.
+Define una interfaz IVehicleFactory con métodos para crear una carrocería, un motor y un sistema de transmisión.
+Luego, implementa dos fábricas concretas: BasicVehicleFactory y LuxuryVehicleFactory.
+Las fábricas deben producir una carrocería, un motor y un sistema de transmisión específicos para vehículos básicos y
+para vehículos de lujo, respectivamente. Por último, crea una clase Vehicle que utiliza la fábrica abstracta para
+construir vehículos.
